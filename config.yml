@@ -7,8 +7,8 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "https://speed.ypzrss.xyz"
-      ApiKey: "YYiJ2jG57It8EbrR"
+      ApiHost: "https://rss.ypz.wtf"
+      ApiKey: "RzDe8rjYAfFxQYBO"
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
